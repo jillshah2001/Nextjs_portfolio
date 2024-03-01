@@ -1,0 +1,24 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"jill": {
+				"__TYPE__": "FieldContent",
+				"value": "branch",
+				"type": "Text"
+			},
+			"shah": {
+				"__TYPE__": "FieldContent",
+				"value": "happened",
+				"type": "Text"
+			},
+			"tag_line": {
+				"__TYPE__": "FieldContent",
+				"value": "general",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]

@@ -6,7 +6,7 @@ import { PrismicRichText, SliceComponentProps } from "@prismicio/react";
 /**
  * Props for `Experience`.
  */
-export type ExperienceProps = SliceComponentProps<Content.ExperienceSlice>;
+export type ExperienceProps = SliceComponentProps<Content.ExperiencceSlice>;
 
 /**
  * Component for "Experience" Slices.
